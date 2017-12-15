@@ -7,7 +7,7 @@ public class HelloGit {
 		System.out.println("신제3 at STS");
 		System.out.println("Hello Git 신제2 at GitHub");
 
-		
+		System.out.println("아악");
 		System.out.println("Hello Git 영섭");
 
 
