@@ -34,7 +34,7 @@ public class HelloGit {
 		
 		System.out.println("테스트 중 1번, 2번");
 
-		System.out.println("dahye branch ");
+		System.out.println("dahye  branch ");
 	}
 
 }
