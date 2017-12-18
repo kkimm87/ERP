@@ -26,7 +26,7 @@ public class HelloGit {
 		System.out.println("충돌이 계속난다 머지");
 
 		String a="다혜";
-		String b="eeeee";
+		String b="eeeee";  
 			
 
 		String c=a+b;	
