@@ -36,6 +36,7 @@ public class HelloGit {
 		System.out.println("테스트 중 1번, 2번");
 
 
+		System.out.println("정누리도 도전!");
 	}
 
 }
