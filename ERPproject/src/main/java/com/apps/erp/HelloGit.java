@@ -41,6 +41,9 @@ public class HelloGit {
 
 
 		System.out.println("정누리도 도전!");
+		
+		System.out.println("sdkkd");
+		System.out.println("진짜되는가");
 
 
 	}
