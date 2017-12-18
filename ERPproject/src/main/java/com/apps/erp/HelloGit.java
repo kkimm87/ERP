@@ -26,14 +26,21 @@ public class HelloGit {
 		System.out.println("충돌이 계속난다 머지");
 
 		String a="다혜";
-		String b="eeeee";
+		String b="eeeee";  
 			
-
+		String stop="그만올려 그만올려"
+				+ "========================================="
+				+ "==========ㄷㄱㄷㄱ============";
+		
 
 		String c=a+b;	
 		System.out.println(c);
-		
-		System.out.println("테스트 중 1번, 2번");
+
+
+		System.out.println("dahye   branch ");
+
+
+		System.out.println("정누리도 도전!");
 
 
 	}
