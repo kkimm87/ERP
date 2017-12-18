@@ -37,6 +37,7 @@ public class HelloGit {
 
 
 		System.out.println("정누리도 도전!");
+		System.out.println("정누리 신제 프로젝트에 다이렉트로");
 	}
 
 }
