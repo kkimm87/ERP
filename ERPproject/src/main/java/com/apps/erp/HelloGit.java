@@ -28,6 +28,10 @@ public class HelloGit {
 		String a="다혜";
 		String b="eeeee";  
 			
+		String stop="그만올려 그만올려"
+				+ "========================================="
+				+ "======================";
+		
 
 		String c=a+b;	
 		System.out.println(c);
