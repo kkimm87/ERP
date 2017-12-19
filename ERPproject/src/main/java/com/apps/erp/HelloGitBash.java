@@ -6,6 +6,7 @@ public class HelloGitBash{
 		
 		System.out.println("Hello Git Bash");
 		System.out.println("Hello Git Commit");
+		System.out.println("branch test");
 	}
 
 } 
