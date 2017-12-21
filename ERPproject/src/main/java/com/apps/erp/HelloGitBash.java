@@ -12,6 +12,7 @@ public class HelloGitBash{
 		System.out.println("이게 깃하는 방법인가?");
 		String b="restful 어려워";
 		System.out.println(b);*/
+		String test="연습";
 	}
 
 } 
