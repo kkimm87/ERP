@@ -7,11 +7,11 @@ public class HelloGit {
 		System.out.println("신제3 at STS");
 		System.out.println("Hello Git 신제2 at GitHub");
 
-		System.out.println("아악");
-
+/*		System.out.println("아악");
+		주석처리
 		System.out.println("Hello Git 영섭");
 		System.out.println("Hello Git 영섭 :)");
-		System.out.println("Hello Git 영섭");
+		System.out.println("Hello Git 영섭");*/
 
 
 		System.out.println("수정추추추충돌");
@@ -41,6 +41,11 @@ public class HelloGit {
 
 
 		System.out.println("정누리도 도전!");
+
+		
+		System.out.println("sdkkd");
+		System.out.println("진짜되는가");
+
 
 
 	}
